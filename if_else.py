@@ -9,7 +9,7 @@ import sys
 
 
 if __name__ == '__main__':
-    n = int(input("Enter the input :").strip())
+    n = int(input("Enter the number :").strip())
 if n%2==1:
     print("Weird")
 elif n>=2 and n<=5:
